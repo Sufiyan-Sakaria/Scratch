@@ -4,7 +4,7 @@ Welcome to the Jump Game! This project is a Scratch implementation of a simple j
 
 ## How to Play
 
-1. Access the game on Scratch by following this link: [Jump Game Scratch Project](https://scratch.mit.edu/projects/1234567890)
+1. Access the game on Scratch by following this link: [Jump Game Scratch Project](https://scratch.mit.edu/projects/969174214)
 2. Click on the green flag to start the game.
 3. Use the spacebar or to make the character jump.
 4. Avoid obstacles such as pits or moving obstacles.
