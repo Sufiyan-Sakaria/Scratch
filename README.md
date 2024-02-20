@@ -35,7 +35,7 @@ Welcome to the Snake Game repository! This project is a Scratch implementation o
 
 ## How to Play
 
-1. Open the project in Scratch by clicking on the following link: [Snake Game Scratch Project](https://scratch.mit.edu/projects/1234567890)
+1. Open the project in Scratch by clicking on the following link: [Snake Game Scratch Project](https://scratch.mit.edu/projects/969174214)
 2. Click on the green flag to start the game.
 3. Use the arrow keys to control the direction of the snake.
 4. Eat the food (represented by a red dot) to grow longer.
